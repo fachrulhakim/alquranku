@@ -1,7 +1,7 @@
 {
   "main.css": "/alquranku/static/css/main.759b50e6.chunk.css",
-  "main.js": "/alquranku/static/js/main.db835cde.chunk.js",
-  "main.js.map": "/alquranku/static/js/main.db835cde.chunk.js.map",
+  "main.js": "/alquranku/static/js/main.d60bc826.chunk.js",
+  "main.js.map": "/alquranku/static/js/main.d60bc826.chunk.js.map",
   "static/js/1.9bf32f55.chunk.js": "/alquranku/static/js/1.9bf32f55.chunk.js",
   "static/js/1.9bf32f55.chunk.js.map": "/alquranku/static/js/1.9bf32f55.chunk.js.map",
   "static/js/2.4cae9fdc.chunk.js": "/alquranku/static/js/2.4cae9fdc.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/alquranku/static/js/runtime~main.33887f49.js.map",
   "static/css/main.759b50e6.chunk.css.map": "/alquranku/static/css/main.759b50e6.chunk.css.map",
   "index.html": "/alquranku/index.html",
-  "precache-manifest.0526437c70d54420104d778d7525357f.js": "/alquranku/precache-manifest.0526437c70d54420104d778d7525357f.js",
+  "precache-manifest.3408ddef47c9fb27eb2f7dd5aa09a6ae.js": "/alquranku/precache-manifest.3408ddef47c9fb27eb2f7dd5aa09a6ae.js",
   "service-worker.js": "/alquranku/service-worker.js"
 }

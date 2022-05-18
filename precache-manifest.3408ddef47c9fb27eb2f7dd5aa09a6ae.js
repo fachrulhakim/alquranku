@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "db835cde3a0d39d1649f",
+    "revision": "d60bc8269b67af84ad66",
     "url": "/alquranku/static/css/main.759b50e6.chunk.css"
   },
   {
-    "revision": "db835cde3a0d39d1649f",
-    "url": "/alquranku/static/js/main.db835cde.chunk.js"
+    "revision": "d60bc8269b67af84ad66",
+    "url": "/alquranku/static/js/main.d60bc826.chunk.js"
   },
   {
     "revision": "9bf32f55384023627f7f",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/alquranku/static/js/runtime~main.33887f49.js"
   },
   {
-    "revision": "82ff622df253c3668d90b02a325a0c3d",
+    "revision": "a44656910594be3d20ba24bd353220e4",
     "url": "/alquranku/index.html"
   }
 ];
