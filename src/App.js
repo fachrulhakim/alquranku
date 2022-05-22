@@ -1,3 +1,4 @@
+import React from 'react';
 import { Container } from "react-bootstrap";
 import { Route } from "react-router-dom";
 import { Switch } from "react-router-dom";
@@ -18,8 +19,8 @@ function App() {
           <main>
             <Switch>
               <Route exact path="/" component={Home} />
-              <Route exact path="/about" component={About} />
-              <Route path="/surat/:id" component={DetailSurat} exact />
+              <Route path="/about" component={About} />
+              <Route path="/surat/:id" component={DetailSurat} />
             </Switch>
           </main>
         </Container>

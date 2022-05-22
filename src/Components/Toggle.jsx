@@ -5,6 +5,7 @@ const Toggle = ({ checked, onChange }) => (
     <input
       className="form-check-input"
       type="checkbox"
+        // eslint-disable-next-line
       role="switch"
       checked={checked}
       onChange={onChange}
